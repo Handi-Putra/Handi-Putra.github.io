@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4af59674.css",
+    "main.js": "/static/js/main.5a9e2ac4.js",
+    "static/media/HP-lightmode.svg": "/static/media/HP-lightmode.4db2eff721c80ffe89b848d07ec9ce74.svg",
+    "static/media/HP-darkmode2.svg": "/static/media/HP-darkmode2.351bf2c7c8b80ea00c842c0a313fab9c.svg",
+    "index.html": "/index.html",
+    "main.4af59674.css.map": "/static/css/main.4af59674.css.map",
+    "main.5a9e2ac4.js.map": "/static/js/main.5a9e2ac4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4af59674.css",
+    "static/js/main.5a9e2ac4.js"
+  ]
+}
